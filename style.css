@@ -1,0 +1,21 @@
+.canvas{
+    width: 600px;
+    height: 500px;
+    margin: 50px auto;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.bulb-off{
+    width: 300px;
+    height: 400px;
+    background: url('/img/lightoff.png') no-repeat;
+    margin: auto;
+}
+
+.bulb-on{
+    width: 300px;
+    height: 400px;
+    background: url('/img/lighton.png') no-repeat;;
+    margin: auto;
+}
